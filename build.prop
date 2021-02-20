@@ -23,7 +23,7 @@ ro.product.vendor.brand=Xiaomi
 ro.product.vendor.device=sagit
 ro.product.vendor.manufacturer=Xiaomi
 ro.product.vendor.model=MI 6
-ro.product.vendor.name=aosp_sagit
+ro.product.vendor.name=sagit
 # end common build properties
 #
 # BOOTIMAGE_BUILD_PROPERTIES
