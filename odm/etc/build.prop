@@ -18,7 +18,7 @@ ro.product.odm.brand=Xiaomi
 ro.product.odm.device=sagit
 ro.product.odm.manufacturer=Xiaomi
 ro.product.odm.model=MI 6
-ro.product.odm.name=aosp_sagit_gms
+ro.product.odm.name=sagit
 # end common build properties
 #
 # ADDITIONAL ODM BUILD PROPERTIES
