@@ -153,9 +153,7 @@ on boot
 
     # Touchscreen
     chown system system /proc/touchpanel/double_tap_enable
-    chown system system /proc/touchpanel/reversed_keys_enable
     chmod 0660 /proc/touchpanel/double_tap_enable
-    chmod 0660 /proc/touchpanel/reversed_keys_enable
 
     # To prevent out of order acknowledgements from making
     # connection tracking to treat them as not belonging to
